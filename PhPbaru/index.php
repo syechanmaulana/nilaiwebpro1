@@ -74,7 +74,7 @@
 <div class="fixed-bottom">
     <div class="card">
         <div class="card-body">
-            &copy; 2025-<?= date("Y")?> - <a href="https://github.com/defantyooo">Programming Web</a>
+            &copy; 2025-<?= date("Y")?> - <a href="https://github.com/syechanmaulana/nilaiwebpro1">Programming Web</a>
 
             <div class="float-end">Versi 0.0.1</div>
         </div>
